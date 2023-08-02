@@ -23,7 +23,7 @@ Encapsulate initialization of application.
         return pre;
     }
     var shutdown = function(){
-        say("Goodbye");
+        say("Goodbye my bobo");
     }
 
     startup();
